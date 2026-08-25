@@ -8,15 +8,15 @@
 
 ---
 
-I build interfaces where motion and structure work together — designed for real people, tested in real contexts.
+Hi there! Just a person looking for things to do :D
 
-Final-year BS Information Technology student at **Angeles University Foundation** (graduating July 2026), based in Tarlac, Philippines. My work sits at the intersection of design and reliability: from high-fidelity prototyping to technical documentation to quality assurance.
+Recent BS Information Technology graduate at **Angeles University Foundation**, based in Tarlac, Philippines. My work sits at the intersection of design and reliability: from high-fidelity prototyping to technical documentation to quality assurance.
 
 ## Highlights
 
-- **CITADEL** — Led design and QA for a university-wide performance evaluation system, spanning high-fidelity prototyping through technical documentation.
-- **Published Researcher** — Primary author of a Scopus-indexed paper presented at an international symposium (SOICT 2025) in Vietnam.
-- **Enterprise Exposure** — Software engineering internship with Salesforce; certified in AWS and Cisco.
+- **CITADEL** — Led the UI/UX Design and QA for a university-wide performance evaluation system, spanning high-fidelity prototyping through technical documentation.
+- **Published Researcher** — Co-Author of a Scopus-indexed paper presented at an international symposium (SOICT 2025) in Vietnam.
+- **Enterprise Exposure** — Salesforce Developer internship with SmartBridge; certified in AWS and Cisco.
 
 ## Tech Stack
 
@@ -54,7 +54,7 @@ Final-year BS Information Technology student at **Angeles University Foundation*
 
 ## Featured Project
 
-### [dreas-portfolio](https://github.com/kiwalidis0/dreas-portfolio)
+### [dreas-portfolio](https://www.andreas-luy.me/)
 
 Personal portfolio with two personalities — an expressive dark, motion-heavy view and a technical light view. Fully content-managed through a built-in admin dashboard backed by Supabase (Postgres, auth, storage), with GSAP-driven animations, PDF previews, and image galleries.
 
