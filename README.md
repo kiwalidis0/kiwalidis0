@@ -60,13 +60,6 @@ Personal portfolio with two personalities — an expressive dark, motion-heavy v
 
 `React 19` `TypeScript` `Vite` `Tailwind CSS v4` `GSAP` `Supabase` `Vercel`
 
-## GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kiwalidis0&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwalidis0&layout=compact&hide_border=true&bg_color=00000000" alt="Top languages" />
-</p>
-
 ---
 
 ## Contact
@@ -75,4 +68,4 @@ Always open to new work, collabs, or just a good conversation.
 
 - **Email:** luy.andreas.navarro@gmail.com
 - **LinkedIn:** [linkedin.com/in/andreasluy](https://linkedin.com/in/andreasluy)
-- **Location:** Bamban, Tarlac, Philippines
+- **Location:** Tarlac, Philippines
